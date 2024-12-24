@@ -2,7 +2,6 @@ package org.lia.lab4back.Models;
 
 import jakarta.ejb.Stateless;
 import jakarta.inject.Inject;
-import jakarta.transaction.Transactional;
 import org.lia.lab4back.Entities.Point;
 import org.lia.lab4back.Services.PointRepository;
 import org.lia.lab4back.Session.UserData;
